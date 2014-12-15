@@ -1,0 +1,23 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Mac files #
+.DS_store
+
+# Eclipse/Idea files #
+.project
+.classpath
+.settings/
+target/
+bin/
+test-output/
+*.ldb
+.idea/
+*.iml
+*.ipr
+*.ids
+*.iws
